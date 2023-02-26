@@ -1,0 +1,14 @@
+receptor = 2q85_polar_H.pdbqt
+ligand = 3D_structure_publikacja_1_C12=CC=CC=C1NC=C2COCC3=CN(CCCN_pub1_lig_1.pdbqt
+
+center_x = 13.853
+center_y = 0.000
+center_z = 0.000
+
+size_x = 80
+size_y = 80
+size_z = 80
+
+out = blind_try_lig_1_pub_1.pdbqt
+
+exhaustiveness = 64
